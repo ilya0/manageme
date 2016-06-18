@@ -10,3 +10,12 @@
 - automated music manager sending emails to promotors and people that need to be upkept with
 
 - section to create epk or press kit
+
+- need to develop a way to store everything
+
+- users and data schemas
+- automation of everything
+- Maybe use react for front end? So I can learn it
+
+- need to talk to more musicians and managers
+- 
