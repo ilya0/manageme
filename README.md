@@ -3,6 +3,26 @@
 
 ### I'm trying to create an app where artists have aplicatins they can use to manage themselves online and that will connect to the various apis to push music, tweets, and interaction in one place.
 
+
+Ideas on what to create:
+- Page for auto epk
+- Page to put all info from socials to realease a track
+    - insta
+    - twitter
+    - snapchat?
+    - facebook
+
+    * possible other idea for pushing to socials
+        - reminder to create social post every day
+        - check list
+
+- live stream page to facebok and periscop and the other one I forget what its called
+- auto contact and email promotors
+- auto email followers
+    - maybe use some sort of mailchimp integration
+    
+
+
 - Find wedding sites and make a automated timeline where music can be released
 
 - guide on how to release music
