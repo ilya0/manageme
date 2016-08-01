@@ -20,7 +20,9 @@ Ideas on what to create:
 - auto contact and email promotors
 - auto email followers
     - maybe use some sort of mailchimp integration
-    
+- auto EPK
+- MUltiple layouts?
+- Automated weeklog posts?
 
 
 - Find wedding sites and make a automated timeline where music can be released
