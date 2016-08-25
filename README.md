@@ -41,3 +41,11 @@ Ideas on what to create:
 
 - need to talk to more musicians and managers
 - 
+
+
+Steps to app 
+
+1. Create front page
+2. creat back end node for support of front page
+3. start creating the pages and modifying the backend to support the front
+4. load up NPMs that you need
