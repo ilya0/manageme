@@ -1,7 +1,7 @@
 # ManageMe
 ## Music Artist Self management app
 
-### I'm trying to create an app where artists have aplicatins they can use to manage themselves online and that will connect to the various apis to push music, tweets, and interaction in one place.
+###An app where artists have applicatons they can use to manage themselves online and that will connect to the various apis to push music, tweets, and interaction in one place.
 
 
 Ideas on what to create:
@@ -11,7 +11,7 @@ Ideas on what to create:
     - twitter
     - snapchat?
     - facebook
-
+- Contacts page for promoters, clubs, venues and other artists
     * possible other idea for pushing to socials
         - reminder to create social post every day
         - check list
@@ -21,8 +21,11 @@ Ideas on what to create:
 - auto email followers
     - maybe use some sort of mailchimp integration
 - auto EPK
-- MUltiple layouts?
-- Automated weeklog posts?
+- Multiple layouts?
+- Automated weekly posts?
+- Connect to mail chimp
+- page to show all stats in real time
+
 
 
 - Find wedding sites and make a automated timeline where music can be released
@@ -49,3 +52,10 @@ Steps to app
 2. creat back end node for support of front page
 3. start creating the pages and modifying the backend to support the front
 4. load up NPMs that you need
+
+
+Future developements
+- move app to different artistic space
+    - graphic artists
+    - other people that tour
+    - 
