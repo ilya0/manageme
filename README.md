@@ -1,7 +1,7 @@
 # ManageMe
 ## Music Artist Self management app
 
-###An app where artists have applicatons they can use to manage themselves online and that will connect to the various apis to push music, tweets, and interaction in one place.
+### An app where artists have applicatons they can use to manage themselves online and that will connect to the various apis to push music, tweets, and interaction in one place.
 
 
 Ideas on what to create:
