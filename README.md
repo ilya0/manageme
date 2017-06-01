@@ -43,7 +43,7 @@ Ideas on what to create:
 - Maybe use react for front end? So I can learn it
 
 - need to talk to more musicians and managers
-- 
+- Add page to manage bands in town 
 
 
 Steps to app 
